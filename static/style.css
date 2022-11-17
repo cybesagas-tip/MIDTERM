@@ -1,0 +1,13 @@
+body {
+    background: lightcoral;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.button {
+    color: white;
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
